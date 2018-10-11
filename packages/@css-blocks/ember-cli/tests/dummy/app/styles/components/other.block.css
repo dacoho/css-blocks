@@ -1,0 +1,7 @@
+:scope {
+  color: blue;
+}
+
+:scope[state|error] {
+  color: red;
+}

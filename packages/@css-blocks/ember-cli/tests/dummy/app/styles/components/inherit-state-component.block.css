@@ -1,0 +1,5 @@
+@block-reference other from "./other.block.css";
+
+:scope {
+  extends: other;
+}
